@@ -17,6 +17,6 @@ An evolving Python-based financial trading system built iteratively to demonstra
 
 **Technical Stack**: Python 3.12 • IBApi • Threading • Real-time Data Processing
 
-📖 **[View Detailed V1 Project Log](PROJECT_LOG_V1.md)** - Complete technical implementation details, code architecture, and learning outcomes
+📖 **[View Detailed V1 Project Log](TradingBotV1/PROJECT_LOG_V1.md)** - Complete technical implementation details, code architecture, and learning outcomes
 
 ---
